@@ -1,10 +1,10 @@
 CACHE MANIFEST
-#chenxi-chenjia 1.0.5
+#chenxi-chenjia 1.0.6
 
 CACHE:
-    ./static/css/app.c917e9d42caff7cd642b609a0d03b68b.css
+    ./static/css/app.556b24fb3fdb97de7f5e5e58a1f81e62.css
     ./static/css/chenxi.min.css
     ./static/img/logo.png
-    ./static/js/app.6e1bee7f75e1fee10040.js
-    ./static/js/manifest.ef99853a7265fba557d3.js
+    ./static/js/app.3c8f1550ebf5dd8ef824.js
+    ./static/js/manifest.83ebf1a81c8241f789ae.js
     ./static/js/vendor.e3d22a91a06c7ee06613.js
