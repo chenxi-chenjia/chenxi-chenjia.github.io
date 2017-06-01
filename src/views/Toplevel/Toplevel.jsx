@@ -27,6 +27,14 @@ function data_flag (path){
             to:'/language/js',
             icl:'icon-js1',
             val:'JS'
+        },{
+            to:'/language/git',
+            icl:'icon-git',
+            val:'GIT'
+        },{
+            to:'language/node',
+            icl:'icon-nodejs',
+            val:'NODE.JS'
         }
     ];
     var layout_data=[

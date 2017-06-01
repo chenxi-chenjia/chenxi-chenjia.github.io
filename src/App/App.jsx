@@ -3,7 +3,7 @@ import routes from 'routes'
 import './App.css'
 import {Footer} from '../components/Footer.jsx'
 import {RouterView} from '../routes/index.js'
-import {BrowserRouter as Router , history} from 'react-router-dom'
+import {BrowserRouter as Router } from 'react-router-dom'
 
 
 

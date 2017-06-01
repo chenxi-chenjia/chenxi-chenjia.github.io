@@ -12,9 +12,17 @@ export default class Home extends React.Component {
                     icl:'icon-todo',
                     val:'Todo'
                 },{
+                    to:'/home/calculate',
+                    icl:'icon-jisuanqi',
+                    val:'calculate'
+                },{
                     to:'/home/product',
                     icl:'icon-xiangmu',
                     val:'我的项目'
+                },{
+                    to:'/home/introduction',
+                    icl:'icon-gerenjieshao',
+                    val:'个人介绍'
                 }
             ]
         }

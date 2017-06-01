@@ -7,6 +7,8 @@ import Content from 'views/content/content'
 import React from 'react'
 import Todo from 'views/Todo/Todo'
 import Product from 'views/Product/Product'
+import Calculate from 'views/calculate/Calculate'
+import Introduction from 'views/Introduction/Introduction'
 import {Todo_edit} from 'views/Todo/Todo_edit/Todo_edit.jsx'
 
 
@@ -20,6 +22,8 @@ export class RouterView extends React.Component{
 					<Route path='/home/todo' exact component={Todo} />
 					<Route path='/home/todo/edit' exact component={Todo_edit} />
 					<Route path='/home/product' exact component={Product} />
+					<Route path='/home/calculate' exact component={Calculate} />
+					<Route path='/home/introduction' exact component={Introduction} />
 					<Route path='/:name' component={Toplevel} exact />
 					<Route path='/:name/:name' exact component={List} />
 					<Route path='/:name/:name/:id' exact component={Content} />
